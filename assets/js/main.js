@@ -140,5 +140,5 @@ function maquina(contenedor,texto,intervalo){
       }},intervalo);
 };
 
-var texto = "Lleva llevame en tu bicicleta, quiero que recorramos juntos esa zona desde Santa Mar hasta Barcelona, una cartica que yo guardo donde te escribí, que te sueño y que te quiero tanto, que hace rato esta mi corazon latiendo por ti, latiendo por ti.";
+var texto = "Soy realmente una apasionada del diseño, siempre con ganas de crear. Mientras disfruto de todos los aspectos de mi carrera, mi etapa favorita en un proyecto es trabajar con personas que aporten ideas donde estas empiezan a fluir.";
 maquina("maquinas",texto,100);
